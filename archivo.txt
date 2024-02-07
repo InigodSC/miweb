@@ -1,2 +1,4 @@
 Prueba Git - Control de Versiones
     Modificado n2
+    Prueba de git diff
+    Prueba de ramas
